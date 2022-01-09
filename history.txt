@@ -1,0 +1,500 @@
+   27  git fetch master
+   28  clea
+   29  ls
+   30  git pull
+   31  ls
+   32  pwd
+   33  clear
+   34  git pull git@github.com:devUserContact/reactTypescript-template.git
+   35  git pull 
+   36  git pull git@github.com:devUserContact/reactTypescript-template.git master
+   37  clear
+   38  git pull git@github.com:devUserContact/reactTypescript-template.git 
+   39  clear
+   40  ls
+   41  clear
+   42  ls
+   43  cd ..
+   44  ls
+   45  sudo rm -r blog-template 
+   46  ls
+   47  git clone git@github.com:devUserContact/reactTypescript-template.git
+   48  ls
+   49  sudo rm -r reactTypescript-template/
+   50  git clone git@github.com:devUserContact/reactTypescript-template.git
+   51  ls
+   52  cd reactTypescript-template/
+   53  ls
+   54  yarn install && yarn start 
+   55  ls
+   56  cd src/
+   57  ls
+   58  cd fonts/
+   59  ls
+   60  cd ..clear
+   61  clear
+   62  ls
+   63  pwd
+   64  cd ..
+   65  ls
+   66  ls
+   67  vim index.css 
+   68  clea
+   69  clear
+   70  clear
+   71  ls
+   72  ls
+   73  cd Pages/
+   74  ls
+   75  cd Test/
+   76  ls
+   77  vim index.tsx 
+   78  cd ../
+   79  ls
+   80  cd ..
+   81  ls
+   82  cd Components/
+   83  ls
+   84  cd Form/
+   85  ls
+   86  vim index.tsx 
+   87  clear
+   88  ls
+   89  cd ..
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd ..
+   94  ls
+   95  git add && git commit -m 'added iframe component'
+   96  git add . && git commit -m 'added iframe component'
+   97  git push
+   98  clear
+   99  ls
+  100  clear
+  101  ls
+  102  cd src/
+  103  ls
+  104  cd Components/
+  105  ls
+  106  cd Iframes/index.tsx 
+  107  vim Iframes/index.tsx 
+  108  exit
+  109  brew upgrade 
+  110  ls
+  111  clear
+  112  ls
+  113  df -h 
+  114  exit
+  115  htop
+  116  exit
+  117  htop
+  118  exit
+  119  ssh `cat Home/comm/sshVIII.txt`
+  120  ssh `cat Home/comm/sshVIII.txt`
+  121  ssh `cat Home/comm/sshVIII.txt`
+  122  ssh `cat Home/comm/sshVIII.txt`
+  123  ssh `cat Home/comm/sshVIII.txt`
+  124  clear
+  125  ssh `cat Home/comm/sshIV.txt`
+  126  ssh `cat Home/comm/sshIV.txt`
+  127  arp -t
+  128  arp -s 
+  129  arp -S
+  130  clear
+  131  arm
+  132  arp
+  133  arp -d
+  134  clear
+  135  arp -a
+  136  ssh `cat Home/comm/sshIV.txt`
+  137  ssh `cat Home/comm/sshIV.txt`
+  138  clear
+  139  ssh `cat Home/comm/sshIV.txt`
+  140  ssh `cat Home/comm/sshIV.txt`ssi
+  141  ssh -p 22 root@/Users/metalitem/Home/prg/typescript00/reactTypescript-template
+  142  ssh -p 22 root@10.0.0.177
+  143  ssh -p 22 root@10.0.0.177
+  144  ssh -p 22 root@10.0.0.177
+  145  ssh -p 22 root@0.0.0.0
+  146  ssh -p 22 iv@0.0.0.0
+  147  arp -a
+  148  ssh `cat Home/comm/sshIV.txt`isssdfsdf
+  149  cciclear/
+  150  clear
+  151  ls
+  152  ssh `cat ~HocoI`
+  153  lsclear
+  154  clear
+  155  exit
+  156  exit
+  157  ssh `cat Home/comm/sshIV.txt`
+  158  ssh `cat Home/comm/sshIV.txt`
+  159  ssh `cat Home/comm/sshIV.txt`
+  160  ssh localhost
+  161  clear
+  162  ls
+  163  clear
+  164  ls
+  165  ssh iv@10.0.0.24
+  166  ssh iv@10.0.0.24
+  167  ssh iv@10.0.0.24
+  168  ssh -p 22 iv@10.0.0.24
+  169  ssh -p 22 iv@10.0.0.178
+  170  clear
+  171  exit
+  172  ls
+  173  cd Home/comm/
+  174  ls
+  175  vim sshIV.txt 
+  176  mv sshIV.txt iv.txt
+  177  ls
+  178  mv sshVIII.txt viii.txt
+  179  vim viii.txt 
+  180  clear
+  181  ssh `cat viii.txt`
+  182  exit
+  183  tmux 
+  184  tmux
+  185  clear
+  186  exit
+  187  pip3 install bpy
+  188  pip install bpy
+  189  arch -arm64 brew install python-pip
+  190  arch -arm64 brew install pip
+  191  pip install bpy
+  192  pip3 install bpy
+  193  python -V
+  194  arch -arm64 brew install python3
+  195  which python3
+  196  ls
+  197  sudo vim .bash_profile 
+  198  sudo vim .bash_profile 
+  199  clear
+  200  python -V
+  201  python
+  202  source .bash_profile 
+  203  python
+  204  pip install bpy
+  205  pip3 install bpy
+  206  clear
+  207  ls
+  208  cat .bash_profile 
+  209  exit
+  210  arch -arm64 brew upgrade 
+  211  clear
+  212  exit
+  213  clear
+  214  ls
+  215  cd Home/
+  216  ls
+  217  cd ..
+  218  ls
+  219  cd .ssh/
+  220  ls
+  221  vim id_rsa_developerUserContact
+  222  vim id_rsa_developerUserContact.pub 
+  223  vim /usr/local/bin/
+  224  sudo vim /usr/local/bin/
+  225  vim id_rsa_developerUserContact
+  226  ls
+  227  vat id_rsa_developerUserContact.pub 
+  228  cat id_rsa_developerUserContact.pub 
+  229  cat id_rsa_developerUserContact
+  230  clear
+  231  clear
+  232  ls
+  233  cd ~/Home/prg/
+  234  l
+  235  clear
+  236  ls
+  237  cd blog-template/
+  238  ls
+  239  clear
+  240  ls
+  241  cd src/
+  242  clear
+  243  ls
+  244  vim App.css 
+  245  vim index.css 
+  246  ls
+  247  vi index.css 
+  248  vim App.css 
+  249  clear
+  250  ls
+  251  cd index.css 
+  252  ls
+  253  cd ..
+  254  sl
+  255  ls
+  256  clear
+  257  owd
+  258  pwd
+  259  ls
+  260  cd src/
+  261  ls
+  262  vim index.css 
+  263  git pull 
+  264  history
+  265  pwd
+  266  cd ..
+  267  ls
+  268  cd ..
+  269  ls
+  270  cd react/
+  271  ls
+  272  cd reactTypescript-template/
+  273  ls
+  274  clear
+  275  ls
+  276  ls
+  277  cd src/
+  278  ls
+  279  cd Pages/
+  280  ls
+  281  vim Test/
+  282  clear
+  283  exit
+  284  cd Home/prg/react/reactTypescript-template/
+  285  yarn start 
+  286  yarn start
+  287  clear
+  288  cd ..
+  289  ls
+  290  cd reactTypescript-template/
+  291  ls
+  292  yarn start
+  293  yarn start
+  294  clear
+  295  yarn start
+  296  ls
+  297  cd yarn.lock 
+  298  ls
+  299  cat yarn.lock 
+  300  clear
+  301  clear
+  302  yarn start
+  303  ls
+  304  cat README.md 
+  305  yarn cache clean
+  306  yarn start
+  307  clear
+  308  ls
+  309  cd ..
+  310  sl
+  311  ls
+  312  ckear
+  313  cd ..
+  314  ls
+  315  clear
+  316  cd react/
+  317  ls
+  318  cd reactTypescript-template/
+  319  ls
+  320  yarn install
+  321  clear
+  322  yarn start
+  323  clear
+  324  exit
+  325  clear
+  326  ls
+  327  cd Home/
+  328  ls
+  329  cd prg/
+  330  ls
+  331  cd react/
+  332  ls
+  333  cd reactTypescript-template/
+  334  yarn add -D sass-lint sass-loader node-sass
+  335  ls
+  336  git add . && git commit -m "added scss packages to dev dependency"
+  337  git push
+  338  gitchusr devUser
+  339  git add . && git commit -m "added scss packages to dev dependency"
+  340  git push
+  341  ls
+  342  git add . && git commit -m "added scss packages to dev dependency"
+  343  git push 
+  344  cd .git && cat config
+  345  git add .
+  346  cd ..
+  347  ls
+  348  git add .
+  349  git commit -m "added scss packages to dev dependency"
+  350  git push
+  351  gitchorgn devUser reactTypescript-template
+  352  git push
+  353  git add .
+  354  git commit -m "added scss packages to dev dependency"
+  355  git push
+  356  git push --set-upstream origin master
+  357  git psh
+  358  git push
+  359  git push --set-upstream origin 
+  360  git push --set-upstream origin master
+  361  gitchusr devUser
+  362  git
+  363  git push
+  364  git push --set-upstream origin master
+  365  clera
+  366  clear
+  367  ls
+  368  gitchusr devUser
+  369  histroy
+  370  history
+  371  git add . && git commit -m "added scss packages to dev dependency"
+  372  git push
+  373  git push --set-upstream origin master
+  374  ls
+  375  clear
+  376  ls
+  377  git 
+  378  git push
+  379  git push --set-upstream origin master 
+  380  sudo git push --set-upstream origin master 
+  381  ssh -T git@github.com
+  382  eval "$(ssh-agent -s)"
+  383  git push
+  384  git push --set-upstream origin master
+  385  eval "$(ssh-agent -s)"
+  386  ssh -T git@github.com
+  387  clear
+  388  gitChUsr devUser
+  389  git push
+  390  git push --set-upstream origin master
+  391  clear
+  392  git add . && git commit -m "added scss packages in dev dependency"
+  393  git push
+  394  clear
+  395  git push -d master
+  396  git push -u origin main
+  397  clear
+  398  git squash 
+  399  git --squash 
+  400  git -squash 
+  401  clear
+  402  ls
+  403  git push
+  404  ls
+  405  ls
+  406  history
+  407  ssh -T git@github.com
+  408  clear
+  409  ls
+  410  git merge
+  411  git branch -m master main
+  412  git status 
+  413  git push -u origin main
+  414  git pushs origin --delete master 
+  415  git push origin --delete master 
+  416  ls
+  417  git status
+  418  git branch --unset-upstream 
+  419  git status
+  420  clear
+  421  git add . && git commit -m 'added scss dev dependency'
+  422  git push
+  423  git push --set-upstream origin main                                                              
+  424  ls
+  425  cat .git/config 
+  426  clear
+  427  git push
+  428  git push --set-upstream origin
+  429  git push --set-upstream origin main
+  430  git pull origin main
+  431  ls
+  432  ls
+  433  claer
+  434  clear
+  435  cat package.json 
+  436  history 
+  437  git add . && git commit -m "added scss packages in dev dependency"
+  438  git push
+  439  git push -u origin main
+  440  git pull
+  441  git pull origin main
+  442  git pull origin master
+  443  git pull origin
+  444  git pull origin main
+  445  git config pull.rebase false 
+  446  git pull origin main
+  447  ls
+  448  car package.json 
+  449  cat package.json 
+  450  history
+  451  git add . && git commit -m "added scss packages in dev dependency"
+  452  git push 
+  453  git push --set-upstream origin main 
+  454  clear
+  455  git pull --rebase
+  456  git pull --rebase origin main
+  457  ls
+  458  cat package.json 
+  459  clear
+  460  ls
+  461  ls
+  462  ls
+  463  cd ..
+  464  ls
+  465  sudo rm -r reactTypescript-template/
+  466  git clone git@github.com:devUserContact/reactTypescript-template.git
+  467  ls
+  468  cd reactTypescript-template/ 
+  469  history
+  470  yarn add -D sass-lint sass-loader node-sass
+  471  clear
+  472  git add . && git commit -m "added scss packages as dev dependencies"
+  473  gitchusr devUser
+  474  git add . && git commit -m "added scss packages as dev dependencies"
+  475  clear
+  476  git reset
+  477  git add . && git commit -m "added scss packages as dev dependencies"
+  478  git push
+  479  clear
+  480  clear
+  481  clear
+  482  ls
+  483  clear
+  484  pwd
+  485  neofetch
+  486  clear
+  487  df -h 
+  488  clear
+  489  histoy
+  490  history
+  491  git pull
+  492  ls
+  493  cd src/
+  494  ls
+  495  vim index.css 
+  496  gitchusr devUser
+  497  git add . && git commit -m "edited index.css file"
+  498  git push
+  499  clear
+  500  exit
+  501  clear
+  502  ls
+  503  clear
+  504  cd /Users/metalitem/Home/prg/react/reactTypescript-template 
+  505  df -h 
+  506  ls
+  507  cd src/
+  508  ls
+  509  cd ..
+  510  ls
+  511  ls
+  512  cd src/
+  513  ls
+  514  cd Components/
+  515  ls
+  516  cd Iframes/
+  517  vim index.tsx 
+  518  clear
+  519  ls
+  520  pwd
+  521  cd ../../../\
+  522  cd ../../../
+  523  ls
+  524  gitchusr devUser
+  525  history
+  526  history > history.txt

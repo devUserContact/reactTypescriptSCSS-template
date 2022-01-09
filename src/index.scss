@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "FreeMono";
+	src: local("FreeMono.ttf"),
+		url("./fonts/FreeMono.ttf") format("truetype");
+}
+body {
+	font-family: "FreeMono";
+}
+input {
+	font-family: "FreeMono";
+}
+
+/* nav-bar */
+.nav-bar {
+	font-size: 20px;
+	display: inline-block;
+	margin: 20px;
+}
+.nav-bar-wrapper {
+	width: 100%;
+}
+
+.pink-text {
+	font-size: 50px;
+	margin: 1%;
+	color: hotpink;
+	text-align: center;
+}
