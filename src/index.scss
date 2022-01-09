@@ -32,48 +32,58 @@ $screen-xl-min: 1200px;
 		@content;
 	}
 }
+
 .pink-text {
 	font-size: 20px;
-	color: hotpink;
+	color: red;
+	text-align: center;
+	&:hover {
+		color: blue;
+	}
+}
+.navBar {
+	font-size: 16px;
+	display: inline-block;
+	margin: 1em;
+	text-decoration: none;	
+	color: black;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+.navBar-container {
+	width: 100%;
 	text-align: center;
 }
 @include sm {
+	.navBar {
+		font-size: 20px;
+	}
 	.pink-text {
 		font-size: 30px;
-		color: hotpink;
-		text-align: center;
 	}
 }
 @include md {
+	.navBar {
+		font-size: 22px;
+	}
 	.pink-text {
 		font-size: 50px;
-		color: hotpink;
-		text-align: center;
 	}
 }
 @include lg {
+	.navBar {
+		font-size: 26px;
+	}
 	.pink-text {
 		font-size: 80px;
-		color: hotpink;
-		text-align: center;
 	}
 }
 @include xl {
+	.navBar {
+		font-size: 28px;
+	}
 	.pink-text {
 		font-size: 100px;
-		color: hotpink;
-		text-align: center;
 	}
-
 }
-/* nav-bar */
-.nav-bar {
-	font-size: 20px;
-	display: inline-block;
-	margin: 20px;
-}
-.nav-bar-wrapper {
-	width: 100%;
-}
-
-
