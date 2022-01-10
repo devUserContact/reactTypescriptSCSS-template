@@ -3,14 +3,18 @@
 	src: local("FreeMono.ttf"),
 		url("./fonts/FreeMono.ttf") format("truetype");
 }
-body {
+* {
 	font-family: "FreeMono";
+	margin: 0px;
 }
 
 $screen-sm-min: 576px;
 $screen-md-min: 768px;
 $screen-lg-min: 992px;
 $screen-xl-min: 1200px;
+
+$baseFontSize-pText: 16px;
+$baseFontSize-navBar: 18px;
 
 @mixin sm {
 	@media (min-width: #{$screen-sm-min}) {
@@ -33,8 +37,11 @@ $screen-xl-min: 1200px;
 	}
 }
 
-.pink-text {
-	font-size: 20px;
+.spacer {
+	margin: 5%;	
+}
+.pText-01 {
+	font-size: $baseFontSize-pText;
 	color: red;
 	text-align: center;
 	&:hover {
@@ -42,9 +49,10 @@ $screen-xl-min: 1200px;
 	}
 }
 .navBar {
-	font-size: 16px;
+	font-size: $baseFontSize-navBar;
 	display: inline-block;
 	margin: 1em;
+	margin-top: 2em;
 	text-decoration: none;	
 	color: black;
 	&:hover {
@@ -56,34 +64,52 @@ $screen-xl-min: 1200px;
 	text-align: center;
 }
 @include sm {
-	.navBar {
-		font-size: 20px;
+	.spacer {
+		margin: 1%;	
 	}
-	.pink-text {
-		font-size: 30px;
+	.navBar {
+		font-size: 1.5em;
+		margin-top: 1.5em;
+		margin-left: 2em;
+		margin-right: 2em;
+	}
+	.pText-01 {
+		font-size: 1.5em;
 	}
 }
 @include md {
 	.navBar {
-		font-size: 22px;
+		font-size: 2em;
+		margin-top: 1em;
 	}
-	.pink-text {
-		font-size: 50px;
+	.pText-01 {
+		font-size: 2em;
 	}
 }
 @include lg {
 	.navBar {
-		font-size: 26px;
+		font-size: 2.5em;
+		margin-top: 1em;
 	}
-	.pink-text {
-		font-size: 80px;
+	.pText-01 {
+		font-size: 2.5em;
 	}
 }
 @include xl {
-	.navBar {
-		font-size: 28px;
+	.spacer {
+		margin: 2%;	
 	}
-	.pink-text {
-		font-size: 100px;
+	.navBar {
+		font-size: 2.5em;
+		margin-top: 1em;
+		margin-left: 1em;
+		margin-right: 1em;
+	}
+	.navBar-container {
+		width: 100%;
+		text-align: left;
+	}
+	.pText-01 {
+		font-size: 3em;
 	}
 }

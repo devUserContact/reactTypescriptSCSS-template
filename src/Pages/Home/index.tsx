@@ -4,7 +4,7 @@ function Home() {
 	return(
 		<div>
 		<NavBar />
-			<p className="pink-text">
+			<p className="pText-01">
 				sample text				
 			</p>
 		</div>
